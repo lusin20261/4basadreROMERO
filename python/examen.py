@@ -1,0 +1,11 @@
+grupo = ("twice")
+bias = ("nayeon")
+animal = ("cangrejo")
+color = ("rosado pastel")
+edad = ("10")
+print ("cual es tu grupo favorito",grupo)
+print ("y cual es tu bias",bias)
+print ("y tu animal espiritual",animal)
+print ("y tu color favorito",color)
+print ("y cuantos años tienes",edad)
+ 
